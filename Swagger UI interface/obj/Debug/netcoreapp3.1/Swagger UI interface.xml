@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger UI interface</name>
+    </assembly>
+    <members>
+        <member name="M:Swagger_UI_interface.Controllers.WeatherForecastController.Get">
+            <summary>
+             Get weathers
+            </summary>
+            <remarks>
+            Description 
+                GET /WeatherForecast
+                This will eturn WeatherForecast object array
+            </remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

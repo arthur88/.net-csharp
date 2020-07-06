@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dotNetSwaggerFullAPI</name>
+    </assembly>
+    <members>
+        <member name="M:dotNetSwaggerFullAPI.Controllers.EmployeeController.Get">
+            <summary>
+            Get list of all emplyess
+            </summary>
+            <returns>The list of Employees.</returns>
+        </member>
+        <member name="M:dotNetSwaggerFullAPI.Controllers.EmployeeController.post(SwaggerUI.Models.Employee)">
+            <summary>
+            Crerates an Employee
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/Employee
+                {
+                    "firstName": Adam
+                    "lastName": Mercknick
+                    EmailId: Adam@Mercknick.com
+                }
+            </remarks>
+            <param name="employee"></param>
+            <returns>A new;y creaed employee</returns>
+            <response code="201">Returns a new;y created employee</response>
+            <response code="400">Error code: if item is null</response>
+        </member>
+    </members>
+</doc>

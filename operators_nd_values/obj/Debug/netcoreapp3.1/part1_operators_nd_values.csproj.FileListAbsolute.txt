@@ -1,0 +1,13 @@
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\bin\Debug\netcoreapp3.1\part1_operators_nd_values.exe
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\bin\Debug\netcoreapp3.1\part1_operators_nd_values.deps.json
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\bin\Debug\netcoreapp3.1\part1_operators_nd_values.runtimeconfig.json
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\bin\Debug\netcoreapp3.1\part1_operators_nd_values.runtimeconfig.dev.json
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\bin\Debug\netcoreapp3.1\part1_operators_nd_values.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\bin\Debug\netcoreapp3.1\part1_operators_nd_values.pdb
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.csprojAssemblyReference.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.AssemblyInfoInputs.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.AssemblyInfo.cs
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.csproj.CoreCompileInputs.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.pdb
+C:\Users\be3520\Desktop\works\dotNET\repos\part1_operators_nd_values\obj\Debug\netcoreapp3.1\part1_operators_nd_values.genruntimeconfig.cache

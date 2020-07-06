@@ -1,0 +1,28 @@
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.exe
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.AssemblyInfoInputs.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.AssemblyInfo.cs
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.RazorTargetAssemblyInfo.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\staticwebassets\Swagger UI interface.StaticWebAssets.Manifest.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\staticwebassets\Swagger UI interface.StaticWebAssets.xml
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.csprojAssemblyReference.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.csproj.CoreCompileInputs.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.deps.json
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.runtimeconfig.json
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.runtimeconfig.dev.json
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.pdb
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.csproj.CopyComplete
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.dll
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.pdb
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.genruntimeconfig.cache
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\bin\Debug\netcoreapp3.1\Swagger UI interface.xml
+C:\Users\be3520\Desktop\works\dotNET\repos\Swagger UI interface\obj\Debug\netcoreapp3.1\Swagger UI interface.xml
