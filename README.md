@@ -9,3 +9,11 @@
 
 
 * **operators_nd_values** - play with arithmetic, comparision, logical, ternary operators, switch case, loop patterns, formatting numeric types, Enum's and structs
+
+
+* **NetcoreMVcLogging** - applied logging of each page to default MVC bootstrap template by using `Serilog`  nuget extension
+
+* **XMLWebAPI** - very simple XML Web API
+
+
+
