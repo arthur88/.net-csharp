@@ -26,4 +26,7 @@
 9. **dotNetCoreClassLibrary** - builded .NET Standard class library and intercepted into `Program.cs`
 
 
+10. **NetCoreWebApi** - trying to connect swagger API with SQL express database
 
+
+11. **TodoApi** - swagger with fully working `GET/POST/PUT/DELETE` methods, response code definitions, using in memory database with entity framework and integrated `Serilog` by saving each HTTP request into `txt` file
