@@ -30,3 +30,7 @@
 
 
 11. **TodoApi** - swagger with fully working `GET/POST/PUT/DELETE` methods, response code definitions, using in memory database with entity framework and integrated `Serilog` by saving each HTTP request into `txt` file
+
+12. **CoreCodeCamp** - not working, by pluralsight tutorial
+
+13. **RazorPagesMovies** - Razor pages with local DB, CRUD actions working
