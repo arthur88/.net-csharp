@@ -34,3 +34,7 @@
 12. **CoreCodeCamp** - not working, by pluralsight tutorial
 
 13. **RazorPagesMovies** - Razor pages with local DB, CRUD actions working
+
+14. **dotNetWrittingCorrectly** - good practise by writing .net with throw/catch and some tips and tricks
+
+15. **ExtensionMethods** - using `extensions` methods in `static` classes
