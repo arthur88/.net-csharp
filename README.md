@@ -40,9 +40,11 @@
 15. **ExtensionMethods** - using `extensions` methods in `static` classes
 
 
+
+
 ## Udemy ##
 
 
-16. **UdemyBookListMVC** - MVC application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - `upsert`. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
+16. **UdemyBookListMVC** - MVC application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
 
-17. **UdemyBookListRazor** - CRUD application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - `upsert`. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
+17. **UdemyBookListRazor** - CRUD application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
