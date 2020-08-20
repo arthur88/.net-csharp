@@ -43,15 +43,21 @@
 ## Udemy ##
 
 
-16. **UdemyBookListMVC** - MVC application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
+16. **Udemy/UdemyBookListMVC** - MVC application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
 
-17. **UdemyBookListRazor** - CRUD application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
+17. **Udemy/UdemyBookListRazor** - CRUD application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
 
 
-#### Udemy courses - C# Intermediate: Classes, Interfaces and OOP ####
 
-18. **UdemyCSharpIntermediate** - Part 1. Constructors, Object Initializers, Methods in _console_ application
 
-19. **UdemyCSharpIntermediate2** - Part 2. Fields, Access Modified, Properties, Indexers in _console_ application
+####18. Udemy courses - C# Intermediate: Classes, Interfaces and OOP ####
 
+18.1 **Udemy/UdemyCSharpIntermediate** - Part 1. Constructors, Object Initializers, Methods in _console_ application
+
+18.2 **Udemy/UdemyCSharpIntermediate2** - Part 2. Fields, Access Modified, Properties, Indexers in _console_ application
+
+18.3 **Udemy/UdemyCSharpIntermediate3_associationBetweenClasses** - Part 3. Composition, Composition over Inheritance
+
+18.4 **Udemy/UdemyCSharpIntermediate4_Inheritance** - Part 4. Rules about constructors in inheritance hierarchies. `base` keyword, Upcasting, Downcasting, boxing, unboxing
+18.4.1 **UdemyCSharpIntermediate4_WindowsFormsApp1** - Part 4.1 upcasting, downcasting example in _WPF_
 

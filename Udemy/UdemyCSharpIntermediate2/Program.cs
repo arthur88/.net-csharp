@@ -2,7 +2,6 @@
 
 namespace UdemyCSharpIntermediate2
 {
-
     class Program
     {
 
@@ -24,12 +23,15 @@ namespace UdemyCSharpIntermediate2
 
             Console.WriteLine(customer.Orders.Count);
 
-            var person = new Person(new DateTime(1988,2,1));
+            var person = new Person(new DateTime(1987, 1, 1));
         
             Console.WriteLine(person.Age);
             Console.WriteLine(person.GetBirthdate());
 
-
+            //indexers
+            var cookie = new HttpCookie();
+            cookie["name"] = "Mosh";
+            Console.WriteLine(cookie["name"]); ;
         }
     }
 }

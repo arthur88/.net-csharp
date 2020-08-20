@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCSharpIntermediate4_Inheritance", "UdemyCSharpIntermediate4_Inheritance.csproj", "{9ECFD799-2364-49EE-B6D1-1115B3ABD154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "..\..\..\..\..\source\repos\Amazon\Amazon.csproj", "{8F04E7FD-30A7-4B26-90A3-F9334F9E756E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECFD799-2364-49EE-B6D1-1115B3ABD154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECFD799-2364-49EE-B6D1-1115B3ABD154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECFD799-2364-49EE-B6D1-1115B3ABD154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECFD799-2364-49EE-B6D1-1115B3ABD154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F04E7FD-30A7-4B26-90A3-F9334F9E756E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F04E7FD-30A7-4B26-90A3-F9334F9E756E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F04E7FD-30A7-4B26-90A3-F9334F9E756E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F04E7FD-30A7-4B26-90A3-F9334F9E756E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C4FA6A-62E3-48D3-8813-00F09286AB4C}
+	EndGlobalSection
+EndGlobal

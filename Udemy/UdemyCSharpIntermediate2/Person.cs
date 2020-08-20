@@ -4,14 +4,16 @@ namespace UdemyCSharpIntermediate2
 {
     public class Person
     {
+        public string Name { get; set; }
+        public string Username { get; set; }
+        public DateTime Birthdate { get; private set; }
+
         public Person(DateTime birthdate)
         {
             Birthdate = birthdate;
         }
 
         private DateTime _birthdate;
-        public DateTime Birthdate { get; private set; }
-
 
         public void SetBirthdate(DateTime birthdate)
         {

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCSharpIntermediate3_associationBetweenClasses", "UdemyCSharpIntermediate3_associationBetweenClasses.csproj", "{045C5076-F044-4DA6-A3DE-3424D8703CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045C5076-F044-4DA6-A3DE-3424D8703CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045C5076-F044-4DA6-A3DE-3424D8703CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045C5076-F044-4DA6-A3DE-3424D8703CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045C5076-F044-4DA6-A3DE-3424D8703CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2615846-C8D1-483F-A463-00D8BE4F1B32}
+	EndGlobalSection
+EndGlobal
