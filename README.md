@@ -59,5 +59,6 @@
 18.3 **Udemy/UdemyCSharpIntermediate3_associationBetweenClasses** - Part 3. Composition, Composition over Inheritance
 
 18.4 **Udemy/UdemyCSharpIntermediate4_Inheritance** - Part 4. Rules about constructors in inheritance hierarchies. `base` keyword, Upcasting, Downcasting, boxing, unboxing
+
 18.4.1 **UdemyCSharpIntermediate4_WindowsFormsApp1** - Part 4.1 upcasting, downcasting example in _WPF_
 
