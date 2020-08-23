@@ -50,26 +50,22 @@
 
 
 
-### 18. Udemy courses - C# Intermediate: Classes, Interfaces and OOP ###
+## 18. Udemy courses - C# Intermediate: Classes, Interfaces and OOP ##
 
-18.1 **Udemy/UdemyCSharpIntermediate** - Part 1. Constructors, Object Initializers, Methods in _console_ application
+> 18.1 **Udemy/UdemyCSharpIntermediate** - Part 1. Constructors, Object Initializers, Methods in _console_ application
 
+> 18.2 **Udemy/UdemyCSharpIntermediate2** - Part 2. Fields, Access Modified, Properties, Indexers in _console_ application
 
-18.2 **Udemy/UdemyCSharpIntermediate2** - Part 2. Fields, Access Modified, Properties, Indexers in _console_ application
-
-
-18.3 **Udemy/UdemyCSharpIntermediate3_associationBetweenClasses** - Part 3. Composition, Composition over Inheritance
-
-
-18.4 **Udemy/UdemyCSharpIntermediate4_Inheritance** - Part 4. Rules about constructors in inheritance hierarchies. `base` keyword, Upcasting, Downcasting, boxing, unboxing
+ 
+> 18.3 **Udemy/UdemyCSharpIntermediate3_associationBetweenClasses** - Part 3. Composition, Composition over Inheritance
 
 
-18.4.1 **UdemyCSharpIntermediate4_WindowsFormsApp1** - Part 4.1 upcasting, downcasting example in _WPF_
+> 18.4 **Udemy/UdemyCSharpIntermediate4_Inheritance** - Part 4. Rules about constructors in inheritance hierarchies. `base` keyword, Upcasting, Downcasting, boxing, unboxing
+
+ > 18.4.1 **UdemyCSharpIntermediate4_WindowsFormsApp1** - Part 4.1 upcasting, downcasting example in _WPF_
 
 
-18.5 **UdemyCSharpIntermediate5_Polymorphism** - Part 5 Polymorphism, _virtual_, _abstract_ and _override_ keywords, _sealed_ modifier, 
-
-
+> 18.5 **UdemyCSharpIntermediate5_Polymorphism** - Part 5 Polymorphism, _virtual_, _abstract_ and _override_ keywords, _sealed_ modifier, 
 
 
 19. **InventoryManagement** - very simple MVC generated and database connected _CRUD_ application
