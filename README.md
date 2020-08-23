@@ -66,3 +66,8 @@
 
 18.4.1 **UdemyCSharpIntermediate4_WindowsFormsApp1** - Part 4.1 upcasting, downcasting example in _WPF_
 
+
+18.5 **UdemyCSharpIntermediate5_Polymorphism** - Part 5 Polymorphism, _virtual_, _abstract_ and _override_ keywords, _sealed_ modifier, 
+
+
+19. **InventoryManagement** - very simple MVC generated and database connected _CRUD_ application
