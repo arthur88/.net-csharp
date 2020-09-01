@@ -72,6 +72,10 @@
 
 20. **UnitTest** / **UnitTestProject** - first steps in unit tests
 
-21. **AsyncAwaitConsoleApp** - _async_, _await_, _delay_, _waitall_, _waitany_, _whenall_, _whenany_ functions playgrounf in console app
+21. **AsyncAwaitConsoleApp** - _async_, _await_, _delay_, _waitall_, _waitany_, _whenall_, _whenany_ functions playground in console app
 
 22. **AggregateFunctions** - aggregate functions from workshop: _sum_, _concat_, _multiply_, _reversed_
+
+## Blazor ##
+
+** 23. Blazor apps / BlazorApp ** - just a very simple Blazor app, first steps to get touch with it
