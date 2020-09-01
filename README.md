@@ -76,6 +76,6 @@
 
 22. **AggregateFunctions** - aggregate functions from workshop: _sum_, _concat_, _multiply_, _reversed_
 
-## Blazor ##
+## Blazor's ##
 
-** 23. Blazor apps / BlazorApp ** - just a very simple Blazor app, first steps to get touch with it
+ 23. **Blazor apps / BlazorApp** - just a very simple Blazor app, first steps to get touch with it
