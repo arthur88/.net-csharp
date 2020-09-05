@@ -76,8 +76,10 @@
 
 22. **AggregateFunctions** - aggregate functions from workshop: _sum_, _concat_, _multiply_, _reversed_
 
-23. **MvcMovie** -  ASP.NET Core MVCwith controllers, models and views. CRUD application by using SQL Server
+23. **MvcMovie** -  ASP.NET Core application with controllers, models and views. CRUD application by using SQL Server
 
 ## Blazor's ##
 
 24. **Blazor apps / BlazorApp** - just a very simple Blazor app, first steps to get touch with it
+
+25. **AspNetCore3JWT** - Web API token based authentication example using JWT tokens
