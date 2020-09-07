@@ -1,0 +1,7 @@
+2020-09-07T13:42:05.4245956+03:00 [INF] () Application started. Press Ctrl+C to shut down.
+2020-09-07T13:42:05.4824394+03:00 [INF] () Hosting environment: "Development"
+2020-09-07T13:42:05.4837683+03:00 [INF] () Content root path: "C:\Users\be3520\Desktop\works\dotNET\repos\Serilog"
+2020-09-07T13:42:10.9632417+03:00 [INF] () This is a log with INFORMATION severity level.
+2020-09-07T13:42:10.9646099+03:00 [WRN] () This is a log with WARNING severity level.
+2020-09-07T13:42:10.9647056+03:00 [ERR] () This is a log with ERROR  severity level.
+2020-09-07T13:42:10.9648095+03:00 [FTL] () This is a log with CRITICAL   severity level.

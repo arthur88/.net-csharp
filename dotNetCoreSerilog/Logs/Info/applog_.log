@@ -1,0 +1,3 @@
+2020-09-07T14:10:53.9621598+03:00 [INF] (dotNetCoreSerilog.TestLogApi) This is a log with INFORMATION severity level.
+2020-09-07T14:15:03.3627729+03:00 [INF] (dotNetCoreSerilog.TestLogApi) This is a log with INFORMATION severity level.
+2020-09-07T14:15:08.1730270+03:00 [INF] (dotNetCoreSerilog.TestLogApi) This is a log with INFORMATION severity level.
