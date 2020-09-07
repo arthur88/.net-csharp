@@ -75,9 +75,9 @@
 
 ## Blazor's ##
 
-- 24. **Blazor apps / BlazorApp** - just a very simple Blazor app, first steps to get touch with it
+- 24 **Blazor apps / BlazorApp** - just a very simple Blazor app, first steps to get touch with it
 
-- 25. **Blazor apps / BlazorTodoList** - _Blazor_ simple to do list app with possibility to mark items as done
+- 25 **Blazor apps / BlazorTodoList** - _Blazor_ simple to do list app with possibility to mark items as done
 
 
 26. **AspNetCore3JWT** - Web API token based authentication example using JWT tokens
