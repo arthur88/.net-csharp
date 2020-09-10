@@ -62,27 +62,30 @@
 
 > 18.5 **UdemyCSharpIntermediate5_Polymorphism** - Part 5 Polymorphism, _virtual_, _abstract_ and _override_ keywords, _sealed_ modifier, 
 
-
-
-
 19. **InventoryManagement** - very simple MVC generated and database connected _CRUD_ application
 
-20. **UnitTest** / **UnitTestProject** - first steps in unit tests
 
-21. **AsyncAwaitConsoleApp** - _async_, _await_, _delay_, _waitall_, _waitany_, _whenall_, _whenany_ functions playground in console app
+20. **AsyncAwaitConsoleApp** - _async_, _await_, _delay_, _waitall_, _waitany_, _whenall_, _whenany_ functions playground in console app
 
-22. **AggregateFunctions** - aggregate functions from workshop: _sum_, _concat_, _multiply_, _reversed_
+21. **AggregateFunctions** - aggregate functions from workshop: _sum_, _concat_, _multiply_, _reversed_
 
-23. **MvcMovie** -  ASP.NET Core application with controllers, models and views. CRUD application by using SQL Server
+22. **MvcMovie** -  ASP.NET Core application with controllers, models and views. CRUD application by using SQL Server
 
 
 ## Blazor's ##
 
-> 24 **Blazor apps / BlazorApp** - just a very simple Blazor app, first steps to get touch with it
+> 23 **Blazor apps / BlazorApp** - just a very simple Blazor app, first steps to get touch with it
 
-> 25 **Blazor apps / BlazorTodoList** - _Blazor_ simple to do list app with possibility to mark items as done
+> 24 **Blazor apps / BlazorTodoList** - _Blazor_ simple to do list app with possibility to mark items as done
 
 
-26. **AspNetCore3JWT** - Web API token based authentication example using JWT tokens
+25. **AspNetCore3JWT** - Web API token based authentication example using JWT tokens
 
-27. **dotNetCoreSerilog** - Writing logs to different files using `Serilog` and by separating based on logs level in ASP.NET Core Web Application
+26. **dotNetCoreSerilog** - Writing logs to different files using `Serilog` and by separating based on logs level in ASP.NET Core Web Application
+
+
+## Unit tests ##
+
+> 27. **UnitTest** / **UnitTestProject** - first steps in unit tests
+
+> 28. **EmployeesApp** - Writing `xunit` `fact` and `theory` validations tests with for _Employee_ application.
