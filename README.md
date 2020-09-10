@@ -86,6 +86,6 @@
 
 ## Unit tests ##
 
-> 27. **UnitTest** / **UnitTestProject** - first steps in unit tests
+> 27. **UnitTest**, **UnitTestProject** - first steps in unit tests
 
 > 28. **EmployeesApp** - Writing `xunit` `fact` and `theory` validations tests with for _Employee_ application.
