@@ -89,3 +89,5 @@
 > 27. **UnitTest**, **UnitTestProject** - first steps in unit tests
 
 > 28. **EmployeesApp** - Writing `xunit` `fact` and `theory` validations tests with for _Employee_ application.
+
+29. **BulkUpsert** - Using `Linq` to insert, update, delete records from `ApplicationDbContext` on MVC framework
