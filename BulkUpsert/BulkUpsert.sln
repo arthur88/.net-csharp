@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkUpsert", "BulkUpsert.csproj", "{22634132-6876-4F5D-9AA1-02B91DD7290C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22634132-6876-4F5D-9AA1-02B91DD7290C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22634132-6876-4F5D-9AA1-02B91DD7290C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22634132-6876-4F5D-9AA1-02B91DD7290C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22634132-6876-4F5D-9AA1-02B91DD7290C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B871AE2-C35B-4026-9093-830791A521E4}
+	EndGlobalSection
+EndGlobal
