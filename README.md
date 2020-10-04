@@ -91,3 +91,7 @@
 > 28. **EmployeesApp** - Writing `xunit` `fact` and `theory` validations tests with for _Employee_ application.
 
 29. **BulkUpsert** - Using `Linq` to insert, update, delete records from `ApplicationDbContext` on MVC framework
+
+30. **programming_languages/ScriptingLanguage** - split dictionary
+
+31. **programming_languages/DinamicallychangedProgrammingLanguage** - replacing dictionary
