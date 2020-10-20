@@ -99,3 +99,12 @@
 32. **programming_languages/DinamicallychangedProgrammingLanguage** - replacing dictionary
 
 33. **RoleBasedAuthorization** - MVC with role base authorisation 
+
+34. **testing-aspnetcore-mvc-master** - Employee application with integrated unit testing by using `xunit` tests
+
+
+## C# course for beginners ##
+
+
+> 35. **01 - Console application** - simple console application
+
