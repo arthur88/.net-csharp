@@ -40,7 +40,7 @@
 15. **ExtensionMethods** - using `extensions` methods in `static` classes
 
 
-## Udemy ##
+## Udemy Book List ##
 
 
 > 16. **Udemy/UdemyBookListMVC** - MVC application by using _Razor pages_, _ASP tag helpers_, routing. Data stored in _SQL Server_. API call initiated by using _jQuery_, _AJAX_. Implemented One-form update page - _upsert_. Implemented 3rd party libraries: _sweetAlert_ and _toaster_.
@@ -84,7 +84,7 @@
 26. **dotNetCoreSerilog** - Writing logs to different files using `Serilog` and by separating based on logs level in ASP.NET Core Web Application
 
 
-## Unit tests ##
+## Unit tests by using `xunit` ##
 
 > 27. **UnitTest**, **UnitTestProject** - first steps in unit tests
 
